@@ -1,0 +1,6 @@
+if SHIELD_WIZZARD3X
+
+config ZMK_KEYBOARD_NAME
+	default "wizzard3x"
+
+endif
