@@ -1,2 +1,2 @@
 config SHIELD_WIZZARD3X
-	def_bool $(shields_list_contains, wizzard3x)
+	def_bool $(shields_list_contains,wizzard3x)
